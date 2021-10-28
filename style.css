@@ -44,7 +44,7 @@ section h2 {
     height: 100%;
     display: flex;
     flex-wrap: wrap;
-	perspective: 500px;
+    perspective: 500px;
     transform-style: preserve-3d;
 }
 
