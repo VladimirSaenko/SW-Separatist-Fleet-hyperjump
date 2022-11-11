@@ -59,7 +59,7 @@ section h2 {
 @keyframes animate {
     0% {
         transform: translateZ(2000px);
-        background: url(images/separatistNavyFleet.jpg);
+        background: url(images/separatistNavyFleet.jpeg);
         background-position: center;
         background-size: cover;
         background-attachment: fixed;
@@ -68,7 +68,7 @@ section h2 {
 
     100% {
         transform: translateZ(0px);
-        background: url(images/separatistNavyFleet.jpg);
+        background: url(images/separatistNavyFleet.jpeg);
         background-position: center;
         background-size: cover;
         background-attachment: fixed;
@@ -79,7 +79,7 @@ section h2 {
 
 section.active .banner .blocks {
     animation: animateTwo 2s ease-in-out forwards;
-    background: url(images/separatistNavyFleet.jpg);
+    background: url(images/separatistNavyFleet.jpeg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -99,7 +99,7 @@ section.active .banner .blocks {
     
     100% {
         transform: translateZ(2000px);
-        background: url(images/separatistNavyFleet.jpg);
+        background: url(images/separatistNavyFleet.jpeg);
         background-position: center;
         background-size: cover;
         background-attachment: fixed;
